@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#section1{
+    background-image: url(https://www.apple.com/v/iphone-15-pro/c/images/meta/iphone-15-pro_overview__f8jz7aagka2q_og.png);
+    height:50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#section2{
+    background-image: url(https://www.apple.com/v/iphone-15/c/images/meta/iphone-15_overview__gm0jynt55aai_og.png?202402222100);
+    height:50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#section3{
+    background-image: url(https://www.apple.com/newsroom/images/2024/01/apple-vision-pro-available-in-the-us-on-february-2/tile/Apple-Vision-Pro-availability-hero-lp.jpg.landing-big_2x.jpg);
+    height:60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
