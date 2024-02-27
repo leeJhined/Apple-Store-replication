@@ -52,3 +52,8 @@
     background-size: cover;
     background-position:center;
 }
+@media screen and (max-width: 640px) {
+    #section1{
+        background-image: url(https://www.apple.com/v/home/bk/images/heroes/iphone-15-pro/hero_iphone15pro__i70z9oz3hj2i_small.jpg);
+    }
+}
