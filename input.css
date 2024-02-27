@@ -5,19 +5,50 @@
 
 #section1{
     background-image: url(https://www.apple.com/v/iphone-15-pro/c/images/meta/iphone-15-pro_overview__f8jz7aagka2q_og.png);
-    height:50vh;
+    height:70vh;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: top;
 }
 #section2{
     background-image: url(https://www.apple.com/v/iphone-15/c/images/meta/iphone-15_overview__gm0jynt55aai_og.png?202402222100);
-    height:50vh;
+    height:70vh;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: top;
 }
 #section3{
     background-image: url(https://www.apple.com/newsroom/images/2024/01/apple-vision-pro-available-in-the-us-on-february-2/tile/Apple-Vision-Pro-availability-hero-lp.jpg.landing-big_2x.jpg);
-    height:60vh;
+    height:80vh;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: bottom;
+}
+#semisection1{
+    background-image: url(https://www.apple.com/v/home/bk/images/promos/apple-watch-series-9/promo_apple_watch_series_9_order__b3u85rm9zf6u_small_2x.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+    background-size: cover;
+    background-position:center;
+}
+#semisection2{
+    background-image: url(https://www.apple.com/v/home/bk/images/promos/macbook-pro-14-and-16/promo_mbp__ek7p477bkp6q_large_2x.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+    background-size: cover;
+    background-position:center;
+}
+#semisection3{
+    background-image: url(https://www.apple.com/v/home/bk/images/promos/ipad/promo_ipad__fioegapg12qi_medium_2x.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+    background-size: cover;
+    background-position:center;   
+}
+#semisection4{
+    background-image: url(https://www.apple.com/v/home/bk/images/promos/airpods-pro/promo_airpods_pro_order__d8xv36p4uwae_large_2x.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+    background-size: cover;
+    background-position:center;
 }
